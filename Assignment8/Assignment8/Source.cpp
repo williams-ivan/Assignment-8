@@ -36,4 +36,5 @@ int main() {
 
 	delete[] arrPtr; //deletes the memory allocated for the pointer variable
 	arrPtr = NULL; //sets the array pointer to NULL
+	return 0;
 }
